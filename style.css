@@ -1,0 +1,14 @@
+body {
+    background-color: #222; /* Latar gelap */
+    color: white; /* Teks putih */
+    text-align: center;
+    font-family: sans-serif;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
